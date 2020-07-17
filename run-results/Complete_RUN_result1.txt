@@ -1,0 +1,467 @@
+MonitorThread started githubRemaining: 60
+pool-1-thread-1 Start. Developer Command = Chunky Garg, Gurgaon
+pool-1-thread-3 Start. Developer Command = Rahul Gaur, India
+pool-1-thread-5 Start. Developer Command = Anubhav Saxena, null
+pool-1-thread-2 Start. Developer Command = Sharvi Verma, India
+pool-1-thread-4 Start. Developer Command = Abhishek Parikh, null
+https://api.github.com/search/users?q=Sharvi+Verma+in:name+location:India waiting to get notified at time:1580593493554
+https://api.github.com/search/users?q=Chunky+Garg+in:name+location:Gurgaon waiting to get notified at time:1580593493554
+https://api.github.com/search/users?q=Rahul+Gaur+in:name+location:India waiting to get notified at time:1580593493554
+https://api.github.com/search/users?q=Anubhav+Saxena+in:name waiting to get notified at time:1580593493554
+https://api.github.com/search/users?q=Abhishek+Parikh+in:name waiting to get notified at time:1580593493554
+https://api.github.com/search/users?q=Sharvi+Verma+in:name+location:India waiter thread got notified at time:1580593495196
+MonitorThread started githubRemaining: 60
+User Profile Could Not Be Fetched For User: Sharvi Verma, India
+java.util.NoSuchElementException
+pool-1-thread-2 End.
+pool-1-thread-2 Start. Developer Command = Shiva Tiwari, Bangalore
+https://api.github.com/search/users?q=Shiva+Tiwari+in:name+location:Bangalore waiting to get notified at time:1580593497062
+MonitorThread started githubRemaining: 9
+https://api.github.com/search/users?q=Chunky+Garg+in:name+location:Gurgaon waiter thread got notified at time:1580593497204
+https://api.github.com/users/chunky-garg/repos waiting to get notified at time:1580593497567
+MonitorThread started githubRemaining: 8
+https://api.github.com/search/users?q=Rahul+Gaur+in:name+location:India waiter thread got notified at time:1580593499220
+https://api.github.com/users/aregee/repos waiting to get notified at time:1580593499736
+MonitorThread started githubRemaining: 7
+https://api.github.com/search/users?q=Anubhav+Saxena+in:name waiter thread got notified at time:1580593501221
+https://api.github.com/users/xhpwn/repos waiting to get notified at time:1580593501571
+MonitorThread started githubRemaining: 6
+https://api.github.com/search/users?q=Abhishek+Parikh+in:name waiter thread got notified at time:1580593503224
+https://api.github.com/users/parikh5555/repos waiting to get notified at time:1580593503737
+Rate Limit Exceeded at TIMESTAMP: 1580593505240 Sleeping for 351631 millis
+MonitorThread started githubRemaining: 60
+MonitorThread started githubRemaining: 60
+https://api.github.com/search/users?q=Shiva+Tiwari+in:name+location:Bangalore waiter thread got notified at time:1580593858889
+User Profile Could Not Be Fetched For User: Shiva Tiwari, Bangalore
+java.util.NoSuchElementException
+pool-1-thread-2 End.
+pool-1-thread-2 Start. Developer Command = Sumit Yadav, New Delhi
+https://api.github.com/search/users?q=Sumit+Yadav+in:name+location:New%2b waiting to get notified at time:1580593859331
+https://api.github.com/users/chunky-garg/repos waiter thread got notified at time:1580593860913
+MonitorThread started githubRemaining: 9
+https://api.github.com/repos/chunky-garg/awesome-android-ui/commits waiting to get notified at time:1580593861357
+MonitorThread started githubRemaining: 59
+https://api.github.com/users/aregee/repos waiter thread got notified at time:1580593862938
+https://api.github.com/repos/aregee/django-browserid/commits waiting to get notified at time:1580593864237
+https://api.github.com/users/xhpwn/repos waiter thread got notified at time:1580593864950
+MonitorThread started githubRemaining: 58
+https://api.github.com/repos/xhpwn/iOS-Projects/commits waiting to get notified at time:1580593866147
+MonitorThread started githubRemaining: 57
+https://api.github.com/users/parikh5555/repos waiter thread got notified at time:1580593866961
+https://api.github.com/repos/parikh5555/IV-2a/commits waiting to get notified at time:1580593868075
+https://api.github.com/search/users?q=Sumit+Yadav+in:name+location:New%2b waiter thread got notified at time:1580593868971
+MonitorThread started githubRemaining: 56
+https://api.github.com/users/sumityadav29/repos waiting to get notified at time:1580593869491
+MonitorThread started githubRemaining: 8
+https://api.github.com/repos/chunky-garg/awesome-android-ui/commits waiter thread got notified at time:1580593870973
+https://api.github.com/repos/chunky-garg/DUMP/commits waiting to get notified at time:1580593872753
+https://api.github.com/repos/aregee/django-browserid/commits waiter thread got notified at time:1580593872973
+MonitorThread started githubRemaining: 55
+https://api.github.com/repos/aregee/bellboy/commits waiting to get notified at time:1580593873597
+MonitorThread started githubRemaining: 54
+https://api.github.com/repos/xhpwn/iOS-Projects/commits waiter thread got notified at time:1580593874980
+https://api.github.com/repos/xhpwn/Spampot/commits waiting to get notified at time:1580593875295
+MonitorThread started githubRemaining: 53
+https://api.github.com/repos/parikh5555/IV-2a/commits waiter thread got notified at time:1580593876991
+https://api.github.com/repos/parikh5555/Youtube-Tutorials/commits waiting to get notified at time:1580593877647
+https://api.github.com/users/sumityadav29/repos waiter thread got notified at time:1580593879011
+MonitorThread started githubRemaining: 52
+https://api.github.com/repos/sumityadav29/cpjava/commits waiting to get notified at time:1580593879453
+MonitorThread started githubRemaining: 51
+https://api.github.com/repos/chunky-garg/DUMP/commits waiter thread got notified at time:1580593881027
+Github API Failed : HTTP error code :   409 For API: https://api.github.com/repos/chunky-garg/DUMP/commits
+https://api.github.com/repos/chunky-garg/GIT-demo/commits waiting to get notified at time:1580593881553
+MonitorThread started githubRemaining: 51
+https://api.github.com/repos/aregee/bellboy/commits waiter thread got notified at time:1580593883044
+https://api.github.com/repos/aregee/demo-impress.js/commits waiting to get notified at time:1580593883790
+MonitorThread started githubRemaining: 49
+https://api.github.com/repos/xhpwn/Spampot/commits waiter thread got notified at time:1580593885052
+https://api.github.com/repos/xhpwn/HackSaw/commits waiting to get notified at time:1580593885445
+MonitorThread started githubRemaining: 48
+https://api.github.com/repos/parikh5555/Youtube-Tutorials/commits waiter thread got notified at time:1580593887068
+https://api.github.com/repos/parikh5555/foodmem/commits waiting to get notified at time:1580593887747
+MonitorThread started githubRemaining: 47
+https://api.github.com/repos/sumityadav29/cpjava/commits waiter thread got notified at time:1580593889086
+https://api.github.com/repos/sumityadav29/competitive-coding/commits waiting to get notified at time:1580593889685
+MonitorThread started githubRemaining: 46
+https://api.github.com/repos/chunky-garg/GIT-demo/commits waiter thread got notified at time:1580593891089
+https://api.github.com/repos/chunky-garg/test/commits waiting to get notified at time:1580593891834
+MonitorThread started githubRemaining: 45
+https://api.github.com/repos/aregee/demo-impress.js/commits waiter thread got notified at time:1580593893098
+https://api.github.com/repos/aregee/angular-dialog-service/commits waiting to get notified at time:1580593893585
+https://api.github.com/repos/xhpwn/HackSaw/commits waiter thread got notified at time:1580593895114
+MonitorThread started githubRemaining: 44
+https://api.github.com/repos/xhpwn/Angular5WAppSkeleton/commits waiting to get notified at time:1580593895668
+MonitorThread started githubRemaining: 43
+https://api.github.com/repos/parikh5555/foodmem/commits waiter thread got notified at time:1580593897115
+https://api.github.com/repos/parikh5555/nodemailer/commits waiting to get notified at time:1580593897530
+https://api.github.com/repos/sumityadav29/competitive-coding/commits waiter thread got notified at time:1580593899118
+MonitorThread started githubRemaining: 42
+https://api.github.com/repos/sumityadav29/keepup/commits waiting to get notified at time:1580593899434
+MonitorThread started githubRemaining: 41
+https://api.github.com/repos/chunky-garg/test/commits waiter thread got notified at time:1580593901120
+https://api.github.com/repos/chunky-garg/webkiosk/commits waiting to get notified at time:1580593901608
+https://api.github.com/repos/aregee/angular-dialog-service/commits waiter thread got notified at time:1580593903124
+MonitorThread started githubRemaining: 40
+https://api.github.com/repos/aregee/angularjs-nvd3-directives/commits waiting to get notified at time:1580593903677
+MonitorThread started githubRemaining: 39
+https://api.github.com/repos/xhpwn/Angular5WAppSkeleton/commits waiter thread got notified at time:1580593905137
+https://api.github.com/repos/xhpwn/snake/commits waiting to get notified at time:1580593905728
+https://api.github.com/repos/parikh5555/nodemailer/commits waiter thread got notified at time:1580593907138
+MonitorThread started githubRemaining: 38
+https://api.github.com/repos/parikh5555/python_libraries/commits waiting to get notified at time:1580593907846
+MonitorThread started githubRemaining: 37
+https://api.github.com/repos/sumityadav29/keepup/commits waiter thread got notified at time:1580593909160
+Github API Failed : HTTP error code :   409 For API: https://api.github.com/repos/sumityadav29/keepup/commits
+https://api.github.com/repos/sumityadav29/Memory-Assistant/commits waiting to get notified at time:1580593909429
+MonitorThread started githubRemaining: 37
+https://api.github.com/repos/chunky-garg/webkiosk/commits waiter thread got notified at time:1580593911177
+https://api.github.com/repos/chunky-garg/clientapp/commits waiting to get notified at time:1580593912097
+MonitorThread started githubRemaining: 35
+https://api.github.com/repos/aregee/angularjs-nvd3-directives/commits waiter thread got notified at time:1580593913192
+https://api.github.com/repos/aregee/dillinger/commits waiting to get notified at time:1580593913959
+https://api.github.com/repos/xhpwn/snake/commits waiter thread got notified at time:1580593915194
+MonitorThread started githubRemaining: 34
+https://api.github.com/repos/xhpwn/Python-Calculator/commits waiting to get notified at time:1580593916255
+MonitorThread started githubRemaining: 33
+https://api.github.com/repos/parikh5555/python_libraries/commits waiter thread got notified at time:1580593917195
+https://api.github.com/repos/parikh5555/ion/commits waiting to get notified at time:1580593917683
+MonitorThread started githubRemaining: 32
+https://api.github.com/repos/sumityadav29/Memory-Assistant/commits waiter thread got notified at time:1580593919195
+https://api.github.com/repos/sumityadav29/credit-app/commits waiting to get notified at time:1580593919720
+https://api.github.com/repos/chunky-garg/clientapp/commits waiter thread got notified at time:1580593921202
+MonitorThread started githubRemaining: 31
+pool-1-thread-1 End.
+pool-1-thread-1 Start. Developer Command = Varun Arora, India
+https://api.github.com/search/users?q=Varun+Arora+in:name+location:India waiting to get notified at time:1580593921595
+https://api.github.com/repos/aregee/dillinger/commits waiter thread got notified at time:1580593923210
+MonitorThread started githubRemaining: 30
+https://api.github.com/repos/aregee/dive-into-machine-learning/commits waiting to get notified at time:1580593923726
+https://api.github.com/repos/xhpwn/Python-Calculator/commits waiter thread got notified at time:1580593925234
+MonitorThread started githubRemaining: 29
+https://api.github.com/repos/xhpwn/newwebsitetesting/commits waiting to get notified at time:1580593925576
+https://api.github.com/repos/parikh5555/ion/commits waiter thread got notified at time:1580593927236
+MonitorThread started githubRemaining: 28
+https://api.github.com/repos/parikh5555/lahaela.github.io/commits waiting to get notified at time:1580593927680
+MonitorThread started githubRemaining: 27
+https://api.github.com/repos/sumityadav29/credit-app/commits waiter thread got notified at time:1580593929270
+https://api.github.com/repos/sumityadav29/Memory-Athlete/commits waiting to get notified at time:1580593929854
+https://api.github.com/search/users?q=Varun+Arora+in:name+location:India waiter thread got notified at time:1580593931276
+MonitorThread started githubRemaining: 26
+User Profile Could Not Be Fetched For User: Varun Arora, India
+java.util.NoSuchElementException
+pool-1-thread-1 End.
+pool-1-thread-1 Start. Developer Command = Anshika Singh, India
+https://api.github.com/search/users?q=Anshika+Singh+in:name+location:India waiting to get notified at time:1580593931605
+MonitorThread started githubRemaining: 9
+https://api.github.com/repos/aregee/dive-into-machine-learning/commits waiter thread got notified at time:1580593933299
+https://api.github.com/repos/aregee/angular-deckster/commits waiting to get notified at time:1580593933762
+MonitorThread started githubRemaining: 25
+https://api.github.com/repos/xhpwn/newwebsitetesting/commits waiter thread got notified at time:1580593935307
+https://api.github.com/repos/xhpwn/PhotoMap/commits waiting to get notified at time:1580593935727
+MonitorThread started githubRemaining: 24
+https://api.github.com/repos/parikh5555/lahaela.github.io/commits waiter thread got notified at time:1580593937317
+https://api.github.com/repos/parikh5555/contrast_strach_matlab/commits waiting to get notified at time:1580593937871
+https://api.github.com/repos/sumityadav29/Memory-Athlete/commits waiter thread got notified at time:1580593939322
+MonitorThread started githubRemaining: 23
+https://api.github.com/repos/sumityadav29/first-contributions/commits waiting to get notified at time:1580593939718
+MonitorThread started githubRemaining: 22
+https://api.github.com/search/users?q=Anshika+Singh+in:name+location:India waiter thread got notified at time:1580593941323
+https://api.github.com/users/anshika1707/repos waiting to get notified at time:1580593941658
+MonitorThread started githubRemaining: 8
+https://api.github.com/repos/aregee/angular-deckster/commits waiter thread got notified at time:1580593943327
+https://api.github.com/repos/aregee/angular-file-upload/commits waiting to get notified at time:1580593944030
+MonitorThread started githubRemaining: 21
+https://api.github.com/repos/xhpwn/PhotoMap/commits waiter thread got notified at time:1580593945332
+https://api.github.com/repos/xhpwn/FileBreaker/commits waiting to get notified at time:1580593945821
+https://api.github.com/repos/parikh5555/contrast_strach_matlab/commits waiter thread got notified at time:1580593947333
+MonitorThread started githubRemaining: 20
+https://api.github.com/repos/parikh5555/m101x-mongo-mean/commits waiting to get notified at time:1580593947656
+MonitorThread started githubRemaining: 19
+https://api.github.com/repos/sumityadav29/first-contributions/commits waiter thread got notified at time:1580593949347
+https://api.github.com/repos/sumityadav29/Mini_project/commits waiting to get notified at time:1580593950560
+MonitorThread started githubRemaining: 18
+https://api.github.com/users/anshika1707/repos waiter thread got notified at time:1580593951362
+https://api.github.com/repos/anshika1707/chatbot/commits waiting to get notified at time:1580593951888
+MonitorThread started githubRemaining: 17
+https://api.github.com/repos/aregee/angular-file-upload/commits waiter thread got notified at time:1580593953367
+https://api.github.com/repos/aregee/angularjs-style-guide/commits waiting to get notified at time:1580593954078
+MonitorThread started githubRemaining: 16
+https://api.github.com/repos/xhpwn/FileBreaker/commits waiter thread got notified at time:1580593955373
+MonitorThread started githubRemaining: 16
+https://api.github.com/repos/parikh5555/m101x-mongo-mean/commits waiter thread got notified at time:1580593957378
+https://api.github.com/repos/xhpwn/ExercismSolutions/commits waiting to get notified at time:1580593959261
+https://api.github.com/repos/sumityadav29/Mini_project/commits waiter thread got notified at time:1580593959402
+MonitorThread started githubRemaining: 15
+https://api.github.com/repos/sumityadav29/Data-Structures-and-Algorithms-in-Java-2nd-Edition-by-Robert-Lafore/commits waiting to get notified at time:1580593960111
+https://api.github.com/repos/parikh5555/ACControlBoardDebugging/commits waiting to get notified at time:1580593960590
+https://api.github.com/repos/anshika1707/chatbot/commits waiter thread got notified at time:1580593961404
+MonitorThread started githubRemaining: 13
+https://api.github.com/repos/anshika1707/chatbot_nvest/commits waiting to get notified at time:1580593961930
+https://api.github.com/repos/aregee/angularjs-style-guide/commits waiter thread got notified at time:1580593963411
+MonitorThread started githubRemaining: 12
+https://api.github.com/repos/aregee/angular-gridster/commits waiting to get notified at time:1580593964690
+MonitorThread started githubRemaining: 11
+https://api.github.com/repos/xhpwn/ExercismSolutions/commits waiter thread got notified at time:1580593965412
+https://api.github.com/repos/xhpwn/parsechat/commits waiting to get notified at time:1580593965674
+https://api.github.com/repos/sumityadav29/Data-Structures-and-Algorithms-in-Java-2nd-Edition-by-Robert-Lafore/commits waiter thread got notified at time:1580593967420
+MonitorThread started githubRemaining: 10
+MonitorThread started githubRemaining: 9
+https://api.github.com/repos/parikh5555/ACControlBoardDebugging/commits waiter thread got notified at time:1580593969422
+https://api.github.com/repos/sumityadav29/mark-preview/commits waiting to get notified at time:1580593971124
+https://api.github.com/repos/anshika1707/chatbot_nvest/commits waiter thread got notified at time:1580593971438
+MonitorThread started githubRemaining: 9
+Github API Failed : HTTP error code :   409 For API: https://api.github.com/repos/anshika1707/chatbot_nvest/commits
+https://api.github.com/repos/anshika1707/Predicting-Employee-Turnover/commits waiting to get notified at time:1580593971695
+https://api.github.com/repos/parikh5555/python-AD770X/commits waiting to get notified at time:1580593971897
+MonitorThread started githubRemaining: 7
+https://api.github.com/repos/aregee/angular-gridster/commits waiter thread got notified at time:1580593973453
+https://api.github.com/repos/aregee/data-science-from-scratch/commits waiting to get notified at time:1580593975032
+https://api.github.com/repos/xhpwn/parsechat/commits waiter thread got notified at time:1580593975459
+MonitorThread started githubRemaining: 6
+https://api.github.com/repos/xhpwn/MinneHackWApp/commits waiting to get notified at time:1580593975951
+Rate Limit Exceeded at TIMESTAMP: 1580593977464 Sleeping for 241858 millis
+MonitorThread started githubRemaining: 60
+MonitorThread started githubRemaining: 60
+https://api.github.com/repos/sumityadav29/mark-preview/commits waiter thread got notified at time:1580594221325
+pool-1-thread-2 End.
+pool-1-thread-2 Start. Developer Command = Salman Kagzi, null
+https://api.github.com/search/users?q=Salman+Kagzi+in:name waiting to get notified at time:1580594221873
+Rate Limit Exceeded at TIMESTAMP: 1580594223333 Sleeping for 358469 millis
+MonitorThread started githubRemaining: 60
+MonitorThread started githubRemaining: 60
+https://api.github.com/repos/anshika1707/Predicting-Employee-Turnover/commits waiter thread got notified at time:1580594583806
+https://api.github.com/repos/anshika1707/Predictive-Analysis-of-Bank-reviews-/commits waiting to get notified at time:1580594584298
+Rate Limit Exceeded at TIMESTAMP: 1580594585811 Sleeping for 358477 millis
+MonitorThread started githubRemaining: 60
+MonitorThread started githubRemaining: 60
+https://api.github.com/repos/parikh5555/python-AD770X/commits waiter thread got notified at time:1580594946313
+https://api.github.com/repos/parikh5555/Hover/commits waiting to get notified at time:1580594946784
+Rate Limit Exceeded at TIMESTAMP: 1580594948332 Sleeping for 358422 millis
+MonitorThread started githubRemaining: 60
+MonitorThread started githubRemaining: 60
+https://api.github.com/repos/aregee/data-science-from-scratch/commits waiter thread got notified at time:1580595308756
+https://api.github.com/repos/aregee/bunny/commits waiting to get notified at time:1580595309563
+Rate Limit Exceeded at TIMESTAMP: 1580595310771 Sleeping for 358435 millis
+MonitorThread started githubRemaining: 60
+MonitorThread started githubRemaining: 60
+https://api.github.com/repos/xhpwn/MinneHackWApp/commits waiter thread got notified at time:1580595671221
+https://api.github.com/repos/xhpwn/scc/commits waiting to get notified at time:1580595671639
+Rate Limit Exceeded at TIMESTAMP: 1580595673236 Sleeping for 358377 millis
+MonitorThread started githubRemaining: 60
+MonitorThread started githubRemaining: 60
+https://api.github.com/search/users?q=Salman+Kagzi+in:name waiter thread got notified at time:1580596033634
+User Profile Could Not Be Fetched For User: Salman Kagzi, null
+java.util.NoSuchElementException
+pool-1-thread-2 End.
+pool-1-thread-2 Start. Developer Command = James Golick, New York
+https://api.github.com/search/users?q=James+Golick+in:name+location:New%2b waiting to get notified at time:1580596034067
+MonitorThread started githubRemaining: 9
+https://api.github.com/repos/anshika1707/Predictive-Analysis-of-Bank-reviews-/commits waiter thread got notified at time:1580596035636
+Github API Failed : HTTP error code :   403 For API: https://api.github.com/repos/anshika1707/Predictive-Analysis-of-Bank-reviews-/commits
+https://api.github.com/repos/anshika1707/energy-prediction/commits waiting to get notified at time:1580596035902
+https://api.github.com/repos/parikh5555/Hover/commits waiter thread got notified at time:1580596037655
+MonitorThread started githubRemaining: 9
+Github API Failed : HTTP error code :   403 For API: https://api.github.com/repos/parikh5555/Hover/commits
+https://api.github.com/repos/parikh5555/fullPage.js/commits waiting to get notified at time:1580596038057
+MonitorThread started githubRemaining: 9
+https://api.github.com/repos/aregee/bunny/commits waiter thread got notified at time:1580596039666
+Github API Failed : HTTP error code :   403 For API: https://api.github.com/repos/aregee/bunny/commits
+https://api.github.com/repos/aregee/cash/commits waiting to get notified at time:1580596040819
+MonitorThread started githubRemaining: 9
+https://api.github.com/repos/xhpwn/scc/commits waiter thread got notified at time:1580596041677
+Github API Failed : HTTP error code :   403 For API: https://api.github.com/repos/xhpwn/scc/commits
+https://api.github.com/repos/xhpwn/GlobalRPS/commits waiting to get notified at time:1580596042116
+MonitorThread started githubRemaining: 9
+https://api.github.com/search/users?q=James+Golick+in:name+location:New%2b waiter thread got notified at time:1580596043681
+https://api.github.com/users/jamesgolick/repos waiting to get notified at time:1580596044093
+https://api.github.com/repos/anshika1707/energy-prediction/commits waiter thread got notified at time:1580596045690
+MonitorThread started githubRemaining: 8
+Github API Failed : HTTP error code :   403 For API: https://api.github.com/repos/anshika1707/energy-prediction/commits
+pool-1-thread-1 End.
+pool-1-thread-1 Start. Developer Command = Dave Fayram, San Francisco, CA
+https://api.github.com/search/users?q=Dave+Fayram+in:name+location:San%2bFrancisco,%2b waiting to get notified at time:1580596046089
+https://api.github.com/repos/parikh5555/fullPage.js/commits waiter thread got notified at time:1580596047709
+MonitorThread started githubRemaining: 8
+Github API Failed : HTTP error code :   403 For API: https://api.github.com/repos/parikh5555/fullPage.js/commits
+https://api.github.com/repos/parikh5555/ALU_VHDL/commits waiting to get notified at time:1580596048100
+https://api.github.com/repos/aregee/cash/commits waiter thread got notified at time:1580596049721
+MonitorThread started githubRemaining: 8
+Github API Failed : HTTP error code :   403 For API: https://api.github.com/repos/aregee/cash/commits
+https://api.github.com/repos/aregee/Angular-Design-Patterns-Best-Practices/commits waiting to get notified at time:1580596050126
+https://api.github.com/repos/xhpwn/GlobalRPS/commits waiter thread got notified at time:1580596051738
+MonitorThread started githubRemaining: 8
+Github API Failed : HTTP error code :   403 For API: https://api.github.com/repos/xhpwn/GlobalRPS/commits
+https://api.github.com/repos/xhpwn/CS307UITemp/commits waiting to get notified at time:1580596052190
+MonitorThread started githubRemaining: 8
+https://api.github.com/users/jamesgolick/repos waiter thread got notified at time:1580596053741
+Github API Failed : HTTP error code :   403 For API: https://api.github.com/users/jamesgolick/repos
+User Github Repo is unavailable
+pool-1-thread-2 End.
+pool-1-thread-2 Start. Developer Command = Nishan Perera, London
+https://api.github.com/search/users?q=Nishan+Perera+in:name+location:London waiting to get notified at time:1580596054120
+MonitorThread started githubRemaining: 8
+https://api.github.com/search/users?q=Dave+Fayram+in:name+location:San%2bFrancisco,%2b waiter thread got notified at time:1580596055746
+https://api.github.com/users/KirinDave/repos waiting to get notified at time:1580596056151
+https://api.github.com/repos/parikh5555/ALU_VHDL/commits waiter thread got notified at time:1580596057750
+MonitorThread started githubRemaining: 7
+Github API Failed : HTTP error code :   403 For API: https://api.github.com/repos/parikh5555/ALU_VHDL/commits
+https://api.github.com/repos/parikh5555/Bucketlist/commits waiting to get notified at time:1580596058020
+MonitorThread started githubRemaining: 7
+https://api.github.com/repos/aregee/Angular-Design-Patterns-Best-Practices/commits waiter thread got notified at time:1580596059757
+Github API Failed : HTTP error code :   403 For API: https://api.github.com/repos/aregee/Angular-Design-Patterns-Best-Practices/commits
+https://api.github.com/repos/aregee/angular-xmppauth/commits waiting to get notified at time:1580596060127
+https://api.github.com/repos/xhpwn/CS307UITemp/commits waiter thread got notified at time:1580596061775
+MonitorThread started githubRemaining: 7
+Github API Failed : HTTP error code :   403 For API: https://api.github.com/repos/xhpwn/CS307UITemp/commits
+https://api.github.com/repos/xhpwn/Canvas/commits waiting to get notified at time:1580596062334
+MonitorThread started githubRemaining: 7
+https://api.github.com/search/users?q=Nishan+Perera+in:name+location:London waiter thread got notified at time:1580596063786
+https://api.github.com/users/nishanperera/repos waiting to get notified at time:1580596064504
+MonitorThread started githubRemaining: 6
+https://api.github.com/users/KirinDave/repos waiter thread got notified at time:1580596065792
+Github API Failed : HTTP error code :   403 For API: https://api.github.com/users/KirinDave/repos
+User Github Repo is unavailable
+pool-1-thread-1 End.
+https://api.github.com/repos/parikh5555/Bucketlist/commits waiter thread got notified at time:1580596067795
+MonitorThread started githubRemaining: 6
+Github API Failed : HTTP error code :   403 For API: https://api.github.com/repos/parikh5555/Bucketlist/commits
+https://api.github.com/repos/parikh5555/emg_signals/commits waiting to get notified at time:1580596068151
+MonitorThread started githubRemaining: 6
+https://api.github.com/repos/aregee/angular-xmppauth/commits waiter thread got notified at time:1580596069800
+Github API Failed : HTTP error code :   403 For API: https://api.github.com/repos/aregee/angular-xmppauth/commits
+https://api.github.com/repos/aregee/angular-directory/commits waiting to get notified at time:1580596070145
+https://api.github.com/repos/xhpwn/Canvas/commits waiter thread got notified at time:1580596071810
+MonitorThread started githubRemaining: 6
+Github API Failed : HTTP error code :   403 For API: https://api.github.com/repos/xhpwn/Canvas/commits
+https://api.github.com/repos/xhpwn/Pulse/commits waiting to get notified at time:1580596072138
+MonitorThread started githubRemaining: 6
+https://api.github.com/users/nishanperera/repos waiter thread got notified at time:1580596073823
+Github API Failed : HTTP error code :   403 For API: https://api.github.com/users/nishanperera/repos
+User Github Repo is unavailable
+pool-1-thread-2 End.
+https://api.github.com/repos/parikh5555/emg_signals/commits waiter thread got notified at time:1580596075834
+MonitorThread started githubRemaining: 6
+Github API Failed : HTTP error code :   403 For API: https://api.github.com/repos/parikh5555/emg_signals/commits
+https://api.github.com/repos/parikh5555/siimple/commits waiting to get notified at time:1580596076257
+MonitorThread started githubRemaining: 6
+https://api.github.com/repos/aregee/angular-directory/commits waiter thread got notified at time:1580596077851
+Github API Failed : HTTP error code :   403 For API: https://api.github.com/repos/aregee/angular-directory/commits
+https://api.github.com/repos/aregee/awesome-flask/commits waiting to get notified at time:1580596078301
+MonitorThread started githubRemaining: 6
+https://api.github.com/repos/xhpwn/Pulse/commits waiter thread got notified at time:1580596079866
+Github API Failed : HTTP error code :   403 For API: https://api.github.com/repos/xhpwn/Pulse/commits
+https://api.github.com/repos/xhpwn/Axon/commits waiting to get notified at time:1580596080354
+https://api.github.com/repos/parikh5555/siimple/commits waiter thread got notified at time:1580596081867
+MonitorThread started githubRemaining: 6
+Github API Failed : HTTP error code :   403 For API: https://api.github.com/repos/parikh5555/siimple/commits
+https://api.github.com/repos/parikh5555/opencv/commits waiting to get notified at time:1580596082292
+https://api.github.com/repos/aregee/awesome-flask/commits waiter thread got notified at time:1580596083869
+MonitorThread started githubRemaining: 6
+Github API Failed : HTTP error code :   403 For API: https://api.github.com/repos/aregee/awesome-flask/commits
+https://api.github.com/repos/aregee/AngularJS-FlowChart/commits waiting to get notified at time:1580596084245
+MonitorThread started githubRemaining: 6
+https://api.github.com/repos/xhpwn/Axon/commits waiter thread got notified at time:1580596085872
+Github API Failed : HTTP error code :   403 For API: https://api.github.com/repos/xhpwn/Axon/commits
+https://api.github.com/repos/xhpwn/r-n-Epione/commits waiting to get notified at time:1580596086299
+MonitorThread started githubRemaining: 6
+https://api.github.com/repos/parikh5555/opencv/commits waiter thread got notified at time:1580596087878
+Github API Failed : HTTP error code :   403 For API: https://api.github.com/repos/parikh5555/opencv/commits
+pool-1-thread-4 End.
+MonitorThread started githubRemaining: 6
+https://api.github.com/repos/aregee/AngularJS-FlowChart/commits waiter thread got notified at time:1580596089891
+Github API Failed : HTTP error code :   403 For API: https://api.github.com/repos/aregee/AngularJS-FlowChart/commits
+https://api.github.com/repos/aregee/angularjs-realworld-example-app/commits waiting to get notified at time:1580596090275
+https://api.github.com/repos/xhpwn/r-n-Epione/commits waiter thread got notified at time:1580596091891
+MonitorThread started githubRemaining: 6
+Github API Failed : HTTP error code :   403 For API: https://api.github.com/repos/xhpwn/r-n-Epione/commits
+https://api.github.com/repos/xhpwn/Android/commits waiting to get notified at time:1580596092352
+MonitorThread started githubRemaining: 6
+https://api.github.com/repos/aregee/angularjs-realworld-example-app/commits waiter thread got notified at time:1580596093904
+Github API Failed : HTTP error code :   403 For API: https://api.github.com/repos/aregee/angularjs-realworld-example-app/commits
+https://api.github.com/repos/aregee/cl-editor/commits waiting to get notified at time:1580596094381
+MonitorThread started githubRemaining: 6
+https://api.github.com/repos/xhpwn/Android/commits waiter thread got notified at time:1580596095904
+Github API Failed : HTTP error code :   403 For API: https://api.github.com/repos/xhpwn/Android/commits
+https://api.github.com/repos/xhpwn/bio-blast/commits waiting to get notified at time:1580596096330
+MonitorThread started githubRemaining: 6
+https://api.github.com/repos/aregee/cl-editor/commits waiter thread got notified at time:1580596097913
+Github API Failed : HTTP error code :   403 For API: https://api.github.com/repos/aregee/cl-editor/commits
+https://api.github.com/repos/aregee/Andy_python/commits waiting to get notified at time:1580596098360
+MonitorThread started githubRemaining: 6
+https://api.github.com/repos/xhpwn/bio-blast/commits waiter thread got notified at time:1580596099932
+Github API Failed : HTTP error code :   403 For API: https://api.github.com/repos/xhpwn/bio-blast/commits
+https://api.github.com/repos/xhpwn/ImageAnnotation/commits waiting to get notified at time:1580596100313
+https://api.github.com/repos/aregee/Andy_python/commits waiter thread got notified at time:1580596101933
+MonitorThread started githubRemaining: 6
+Github API Failed : HTTP error code :   403 For API: https://api.github.com/repos/aregee/Andy_python/commits
+https://api.github.com/repos/aregee/angular-parallax/commits waiting to get notified at time:1580596102357
+MonitorThread started githubRemaining: 6
+https://api.github.com/repos/xhpwn/ImageAnnotation/commits waiter thread got notified at time:1580596103947
+Github API Failed : HTTP error code :   403 For API: https://api.github.com/repos/xhpwn/ImageAnnotation/commits
+https://api.github.com/repos/xhpwn/ImageAnnotate/commits waiting to get notified at time:1580596104405
+https://api.github.com/repos/aregee/angular-parallax/commits waiter thread got notified at time:1580596105957
+MonitorThread started githubRemaining: 6
+Github API Failed : HTTP error code :   403 For API: https://api.github.com/repos/aregee/angular-parallax/commits
+https://api.github.com/repos/aregee/angular.js/commits waiting to get notified at time:1580596106271
+https://api.github.com/repos/xhpwn/ImageAnnotate/commits waiter thread got notified at time:1580596107964
+MonitorThread started githubRemaining: 6
+Github API Failed : HTTP error code :   403 For API: https://api.github.com/repos/xhpwn/ImageAnnotate/commits
+https://api.github.com/repos/xhpwn/Flix/commits waiting to get notified at time:1580596108288
+MonitorThread started githubRemaining: 6
+https://api.github.com/repos/aregee/angular.js/commits waiter thread got notified at time:1580596109973
+Github API Failed : HTTP error code :   403 For API: https://api.github.com/repos/aregee/angular.js/commits
+https://api.github.com/repos/aregee/angular-nereid-auth/commits waiting to get notified at time:1580596110454
+MonitorThread started githubRemaining: 6
+https://api.github.com/repos/xhpwn/Flix/commits waiter thread got notified at time:1580596111990
+Github API Failed : HTTP error code :   403 For API: https://api.github.com/repos/xhpwn/Flix/commits
+https://api.github.com/repos/xhpwn/Instagram/commits waiting to get notified at time:1580596112391
+https://api.github.com/repos/aregee/angular-nereid-auth/commits waiter thread got notified at time:1580596114005
+MonitorThread started githubRemaining: 6
+Github API Failed : HTTP error code :   403 For API: https://api.github.com/repos/aregee/angular-nereid-auth/commits
+https://api.github.com/repos/aregee/angular_seed/commits waiting to get notified at time:1580596114334
+https://api.github.com/repos/xhpwn/Instagram/commits waiter thread got notified at time:1580596116014
+MonitorThread started githubRemaining: 6
+Github API Failed : HTTP error code :   403 For API: https://api.github.com/repos/xhpwn/Instagram/commits
+https://api.github.com/repos/xhpwn/Ac1dRa1n/commits waiting to get notified at time:1580596116479
+MonitorThread started githubRemaining: 6
+https://api.github.com/repos/aregee/angular_seed/commits waiter thread got notified at time:1580596118019
+Github API Failed : HTTP error code :   403 For API: https://api.github.com/repos/aregee/angular_seed/commits
+https://api.github.com/repos/aregee/checkshape/commits waiting to get notified at time:1580596118447
+MonitorThread started githubRemaining: 6
+https://api.github.com/repos/xhpwn/Ac1dRa1n/commits waiter thread got notified at time:1580596120032
+Github API Failed : HTTP error code :   403 For API: https://api.github.com/repos/xhpwn/Ac1dRa1n/commits
+https://api.github.com/repos/xhpwn/hsh/commits waiting to get notified at time:1580596120494
+MonitorThread started githubRemaining: 6
+https://api.github.com/repos/aregee/checkshape/commits waiter thread got notified at time:1580596122040
+Github API Failed : HTTP error code :   403 For API: https://api.github.com/repos/aregee/checkshape/commits
+https://api.github.com/repos/aregee/colorGame/commits waiting to get notified at time:1580596122729
+MonitorThread started githubRemaining: 6
+https://api.github.com/repos/xhpwn/hsh/commits waiter thread got notified at time:1580596124040
+Github API Failed : HTTP error code :   403 For API: https://api.github.com/repos/xhpwn/hsh/commits
+https://api.github.com/repos/xhpwn/media-list/commits waiting to get notified at time:1580596124475
+MonitorThread started githubRemaining: 6
+https://api.github.com/repos/aregee/colorGame/commits waiter thread got notified at time:1580596126045
+Github API Failed : HTTP error code :   403 For API: https://api.github.com/repos/aregee/colorGame/commits
+https://api.github.com/repos/aregee/college_fest/commits waiting to get notified at time:1580596126427
+MonitorThread started githubRemaining: 6
+https://api.github.com/repos/xhpwn/media-list/commits waiter thread got notified at time:1580596128051
+Github API Failed : HTTP error code :   403 For API: https://api.github.com/repos/xhpwn/media-list/commits
+https://api.github.com/repos/xhpwn/ArchStrike/commits waiting to get notified at time:1580596128477
+MonitorThread started githubRemaining: 6
+https://api.github.com/repos/aregee/college_fest/commits waiter thread got notified at time:1580596130064
+Github API Failed : HTTP error code :   403 For API: https://api.github.com/repos/aregee/college_fest/commits
+https://api.github.com/repos/aregee/awesome-wm/commits waiting to get notified at time:1580596130375
+https://api.github.com/repos/xhpwn/ArchStrike/commits waiter thread got notified at time:1580596132073
+MonitorThread started githubRemaining: 6
+Github API Failed : HTTP error code :   403 For API: https://api.github.com/repos/xhpwn/ArchStrike/commits
+https://api.github.com/repos/xhpwn/Skiddie/commits waiting to get notified at time:1580596132475
+https://api.github.com/repos/aregee/awesome-wm/commits waiter thread got notified at time:1580596134076
+MonitorThread started githubRemaining: 6
+Github API Failed : HTTP error code :   403 For API: https://api.github.com/repos/aregee/awesome-wm/commits
+pool-1-thread-3 End.
+https://api.github.com/repos/xhpwn/Skiddie/commits waiter thread got notified at time:1580596136078
+MonitorThread started githubRemaining: 6
+Github API Failed : HTTP error code :   403 For API: https://api.github.com/repos/xhpwn/Skiddie/commits
+pool-1-thread-5 End.
+Finished all threads, Total Records Processed : 13

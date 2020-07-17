@@ -1,0 +1,5 @@
+{"users":[    
+        {"firstname":"Juhi", "lastname":"Ghosh", "location": "Hyderabad"},    
+        {"firstname":"Sharvi", "lastname":"Verma", "location": "India"},
+        {"firstname":"Chunky", "lastname":"Garg", "location": "Gurgaon"}
+]}
